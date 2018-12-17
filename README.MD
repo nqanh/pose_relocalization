@@ -1,5 +1,5 @@
 ## Requirements
-- Keras >= 2.0 (upgrade Keras to lastest version with: `sudo pip install git+git://github.com/fchollet/keras.git --upgrade`) (used 2.0.3)
+- Keras 2.0.3
 - Tensorflow >= 1.0 (used 1.1.0)
 
 ## Download dataset
