@@ -20,3 +20,19 @@
 - `cd main_keras`
 - `python predict.py`
 - Change **in_scene_id**, **in_net_id**, **in_model_file_name** in this file for different scene
+
+
+If you find this code useful in your research, please consider citing:
+
+	@article{DBLP:journals/corr/abs-1708-09011,
+	  author    = {Anh Nguyen and
+				   Thanh{-}Toan Do and
+				   Darwin G. Caldwell and
+				   Nikos G. Tsagarakis},
+	  title     = {Real-Time Pose Estimation for Event Cameras with Stacked Spatial {LSTM}
+				   Networks},
+	  journal   = {CoRR},
+	  volume    = {abs/1708.09011},
+	  year      = {2017},
+	  url       = {http://arxiv.org/abs/1708.09011},
+	}
