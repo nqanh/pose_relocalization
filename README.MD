@@ -24,15 +24,13 @@
 
 If you find this code useful in your research, please consider citing:
 
-	@article{DBLP:journals/corr/abs-1708-09011,
+	@article{nguyen6dof_lstmpose,
 	  author    = {Anh Nguyen and
 				   Thanh{-}Toan Do and
 				   Darwin G. Caldwell and
 				   Nikos G. Tsagarakis},
 	  title     = {Real-Time Pose Estimation for Event Cameras with Stacked Spatial {LSTM}
 				   Networks},
-	  journal   = {CoRR},
-	  volume    = {abs/1708.09011},
-	  year      = {2017},
-	  url       = {http://arxiv.org/abs/1708.09011},
-	}
+	  journal   = {IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
+	  year      = {2019}
+	 }
